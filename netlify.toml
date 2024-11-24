@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/SRC/index.html"
+status = 200
